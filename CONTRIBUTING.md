@@ -15,7 +15,7 @@ Make sure you read the [README.md](https://github.com/KamandPrompt/baat-cheet/bl
 
 Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. If you have got any questions, you can also join our [zulip channel](https://kamandprompt.zulipchat.com/login/#narrow/stream/201590-Baat-Cheet.20Project) to chat about your queries in real-time. 
 
-Remember that this is an inclusive community, commited to creating a safe, positive environment. See the whole [Code of Conduct](https://github.com/KamandPrompt/baat-cheet/blob/master/CODE_OF_CONDUCT.md) and please follow it in all your interactions with the project.
+Remember that this is an inclusive community, committed to creating a safe, positive environment. See the whole [Code of Conduct](https://github.com/KamandPrompt/baat-cheet/blob/master/CODE_OF_CONDUCT.md) and please follow it in all your interactions with the project.
 
 
 ## Submitting or Requesting an Issue/Enhancement
@@ -23,7 +23,7 @@ Remember that this is an inclusive community, commited to creating a safe, posit
 ### Best Practices for reporting or requesting for Issues/Enhancements:
   - Before you submit an issue, please search the issue tracker, maybe an issue for your problem already exists and the discussion might inform you of workarounds readily available.
   - Follow the Issue Template while creating the issue.
-  - Include Screenshots if any (specially for UI related issues).
+  - Include Screenshots if any (especially for UI related issues).
   - For UI enhancements or workflows, include mockups to get a clear idea.
 
 ### Best Practices for getting assigned to work on an Issue/Enhancement:
@@ -45,7 +45,7 @@ git clone https://github.com/your-username/baat-cheet.git
 ```
 git checkout master
 ```
-  - Create a new branch with a meaningful name before adding and commiting your changes.
+  - Create a new branch with a meaningful name before adding and committing your changes.
 ```
 git checkout -b branch-name
 ```
@@ -75,7 +75,7 @@ git push origin remote-branch-name --force
 ```
   - Follow the Pull request template and submit a pull request with a motive for your change and the method you used to achieve it to be merged with the `master` branch.
   - If you can, please submit the pull request with the fix or improvements including tests.
-  - During review, if you are requested to make changes, rebase your branch and squash the multiple commits into one. Once you push these changes the pull request will edit automatically.
+  - During the review, if you are requested to make changes, rebase your branch and squash the multiple commits into one. Once you push these changes the pull request will edit automatically.
 
 
 ## Configuring remotes
